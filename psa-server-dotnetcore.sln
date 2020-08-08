@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "psa-server-dotnetcore", "psa-server-dotnetcore.csproj", "{56D203C5-3FD1-42D6-9DF2-C5F357E50DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D203C5-3FD1-42D6-9DF2-C5F357E50DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D203C5-3FD1-42D6-9DF2-C5F357E50DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D203C5-3FD1-42D6-9DF2-C5F357E50DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D203C5-3FD1-42D6-9DF2-C5F357E50DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7428B9C0-CF44-4DB0-932C-421536FF1D51}
+	EndGlobalSection
+EndGlobal
